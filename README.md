@@ -5,7 +5,7 @@ This project is an **IoT-based Environmental Monitoring System** designed to mon
 
 ## ✨ Features
 - 🌡️ Real-time temperature and humidity monitoring
-- 📶 Wi-Fi enabled data transmission (ESP8266/ESP32)
+- 📶 Wi-Fi enabled data transmission (ESP32)
 - ☁️ Cloud storage integration (ThingSpeak, Firebase)
 - 📱 Remote data access via web or mobile apps
 - 🚨 Alerts or automated actions based on sensor data (optional)
@@ -14,7 +14,7 @@ This project is an **IoT-based Environmental Monitoring System** designed to mon
 | Hardware               | Software                     | Cloud & Frontend               |
 |------------------------|------------------------------|-------------------------------|
 | Arduino UNO            | Arduino IDE                  | ThingSpeak / Firebase         |
-| ESP8266 Wi-Fi Module   | DHT11 Sensor Library         | Web/Mobile App Visualization  |
+| ESP32 Wi-Fi Module   | DHT11 Sensor Library         | Web/Mobile App Visualization  |
 | DHT11 Temperature Sensor| ESP8266WiFi Library          |                               |
 
 ## 🏁 Getting Started
