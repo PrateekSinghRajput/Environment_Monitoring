@@ -15,7 +15,7 @@ This project is an **IoT-based Environmental Monitoring System** designed to mon
 |------------------------|------------------------------|-------------------------------|
 | Arduino UNO            | Arduino IDE                  | ThingSpeak / Firebase         |
 | ESP32 Wi-Fi Module   | DHT11 Sensor Library         | Web/Mobile App Visualization  |
-| DHT11 Temperature Sensor| ESP8266WiFi Library          |                               |
+| DHT11 Temperature Sensor| WiFi Library          |                               |
 
 ## 🏁 Getting Started
 
